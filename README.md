@@ -1,4 +1,4 @@
-# my-cli
+# vuex-vue-cli
 
 ## Project setup
 ```
