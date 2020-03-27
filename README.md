@@ -7,32 +7,32 @@
 
 ## 项目安装
 
-'''
+```
   npm install -g redlives-cli
-'''
+```
 
 ## 项目初始化
 
-  '''
+  ```
     redlives init <templentName> <projectName>
-  '''
+  ```
 
 ## 查看帮助信息
   
-  '''
+  ```
     redlives --help
-  '''
+  ```
   
 ## 查看可用模板列表
   
-  '''
+  ```
     redlives list
-  '''
+  ```
  
  
 ## 查看版本
   
-  '''
+  ```
     redlives -V
-  '''
+  ```
 
